@@ -1,1 +1,8 @@
-//Need to add about the tools used
+EDA Tools Information
+
+We have used the following EDA for Design of RV32IM 
+
+1] Cadence
+2] Vivado Design Suite - Xilinx
+
+These are the tools used.
